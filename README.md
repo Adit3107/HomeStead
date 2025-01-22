@@ -45,12 +45,12 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-estate-website.git
+   git clone https://github.com/your-username/HomeStead.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd real-estate-website
+   cd HomeStead
    ```
 
 3. Install dependencies:
@@ -92,7 +92,7 @@ Ensure you have the following installed:
 
 ## File Structure
 ```
-real-estate-website/
+HomeStead/
 ├── public/           # Static assets
 ├── src/
 │   ├── components/   # React components
